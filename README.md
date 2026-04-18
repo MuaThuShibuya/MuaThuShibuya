@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" />
+  <img src="[https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://i.makeagif.com/media/11-25-2020/Do61TA.gif)" width="100" />
   <h1>Hi, I'm Nguyễn Thái Duy 👋</h1>
   <p><i>Software Engineering Student | Aspiring Backend Developer</i></p>
 
