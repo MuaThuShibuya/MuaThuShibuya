@@ -16,6 +16,15 @@
 
 ---
 
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.facebook.com/whiskyecs04/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://discord.gg/AueXWqDz" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:nguyenthaiduy1444@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
 ### 🚀 Tech Stack & Skills
 
 #### 💻 Programming Languages
@@ -75,12 +84,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuaThuShibuya/MuaThuShibuya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-### 📫 Connect with me
-<p align="left">
-  <a href="https://www.facebook.com/whiskyecs04/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://discord.gg/AueXWqDz" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:nguyenthaiduy1444@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
