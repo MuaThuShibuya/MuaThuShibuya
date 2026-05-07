@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.makeagif.com/media/11-25-2020/Do61TA.gif" width="500" />
-  <h1>Hi, I'm Nguyễn Thái Duy 👋</h1>
+  <h1>Hi, Call me Whiskey.</h1>
   <p><i>Software Engineering Student | Aspiring Backend Developer</i></p>
 
   <p align="center">
